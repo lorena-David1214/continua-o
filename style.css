@@ -1,0 +1,43 @@
+body {background-color: rgb(16, 163, 107);}
+
+ .p1 {text-align: center;
+font-size: 300%;
+color: rgb(0, 255, 157);
+border-color: rgb(2, 2, 17);
+border-width: 6px;
+border-style: double ;
+margin-left: 20%;
+margin-right: 20%;
+padding-left: 6%;
+padding-top: 6%;
+background-color: blueviolet;
+
+
+}
+ 
+.p2 {text-align: center;
+    font-size: 500%;
+    color: rgb(0, 38, 255);
+    border-color: rgb(34, 163, 23);
+    border-width: 6px;
+    border-style: double ;
+    margin-left: 30%;
+    margin-right: 5%;
+    padding-left: 9%;
+    padding-top: 2%;
+    background-color: rgb(204, 18, 34);
+}
+
+.p3{border-color: blue;
+background-color: blueviolet;
+border-width: 6px;
+border-style: double ;
+margin-left: 9%;
+margin-right: 35%;
+padding-left: 6%;
+padding-top: 4%;
+font-size: 300%;
+border-style: double ;
+color: brown;
+
+}
